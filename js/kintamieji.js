@@ -13,6 +13,10 @@ kintamuju tipai:
 - logine reiksme (boolean)
 - sarasas/masyvas (array)
 
+kintamuju timas (atminties atzvilgiu):
+- primityvi reiksme
+- kompleksine reiksme
+
 "=" -  priskyrimo operatorius
 
 */
