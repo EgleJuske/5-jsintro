@@ -52,7 +52,7 @@ const count = marks.length;
 const avarage = sum / count;
 
 console.log(`Pazymiu vidurkis yra ${avarage}.`);
-
+ 
 console.log('------------------------')
 
 
